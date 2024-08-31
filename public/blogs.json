@@ -1,0 +1,53 @@
+[
+    {
+      "id": "001",
+      "cover": "https://i.postimg.cc/1zD7k3f2/pexels-alxs-919734.jpg",
+      "title": "Mystery of the Lost City",
+      "author": "Alice Smith",
+      "author_img": "https://i.postimg.cc/44W2kMxf/pexels-spencer-selover-142259-428364.jpg",
+      "posted_date": "2024-01-15",
+      "reading_time": 300,  
+      "hashtags": ["#Mystery", "#Thriller", "#Adventure"]
+    },
+    {
+      "id": "002",
+      "cover": "https://i.postimg.cc/XJ8Hv1Kg/pexels-luis-gomes-166706-546819.jpg",
+      "title": "Cooking with Love",
+      "author": "Bob Johnson",
+      "author_img": "https://i.postimg.cc/44W2kMxf/pexels-spencer-selover-142259-428364.jpg",
+      "posted_date": "2024-02-10",
+      "reading_time": 180,  
+      "hashtags": ["#Cookbook", "#Recipes", "#Food"]
+    },
+    {
+      "id": "003",
+      "cover": "https://i.postimg.cc/XJ8Hv1Kg/pexels-luis-gomes-166706-546819.jpg",
+      "title": "The Time Traveler's Diary",
+      "author": "Carol Lee",
+      "author_img": "https://i.postimg.cc/44W2kMxf/pexels-spencer-selover-142259-428364.jpg",
+      "posted_date": "2024-03-05",
+      "reading_time": 3,  
+      "hashtags": ["#ScienceFiction", "#TimeTravel", "#Adventure"]
+    },
+    {
+      "id": "004",
+      "cover": "https://i.postimg.cc/WzY5GDHF/pexels-pixabay-256381.jpg",
+      "title": "Journey to the Stars",
+      "author": "David Brown",
+      "author_img": "https://i.postimg.cc/44W2kMxf/pexels-spencer-selover-142259-428364.jpg",
+      "posted_date": "2024-04-20",
+      "reading_time": 4,  
+      "hashtags": ["#ScienceFiction", "#Space", "#Exploration"]
+    },
+    {
+      "id": "005",
+      "cover": "https://i.postimg.cc/kGgjRNfP/pexels-pixabay-356056.jpg",
+      "title": "Whispers of the Heart",
+      "author": "Emma Wilson",
+      "author_img": "https://i.postimg.cc/44W2kMxf/pexels-spencer-selover-142259-428364.jpg",
+      "posted_date": "2024-05-30",
+      "reading_time": 2,  
+      "hashtags": ["#Romance", "#Drama", "#Relationships"]
+    }
+  ]
+  
